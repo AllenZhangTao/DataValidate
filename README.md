@@ -19,7 +19,7 @@ MSSQL 2000+
     f_validate_isgsdjzh              是否有效国税登记证号
     f_validate_isyzbm                是否有效邮政编码
 
-###2.VoteList.cs 
+###2.ValiDate.cs 
 C#版数据校验类    
 返回值为布尔型，错误信息在类变量中
 
